@@ -1,0 +1,2 @@
+futtatás: javac RSA.java
+	  java RSA "1.prímszám" "2.prímszám" "üzenet"
